@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.sim {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#size {
+    font-size: 24px;
+}
+
+#anid {
+    background-color:lightgreen;
+    font-size: 24;
+    font-weight: bold;
+}
